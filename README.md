@@ -28,22 +28,7 @@ This Power BI dashboard provides insights into customer and transaction data for
 
 ---
 
-## KPIs Used
 
-1. 📊 **Total Revenue (Card Visual):** Displays the total revenue generated across all transactions, aggregated to $57M.
-2. 📊 **Total Transaction Amount (Card Visual):** Displays the total value of all transactions, aggregated to $45.5M.
-3. 📊 **Total Transaction Count (Card Visual):** Represents the total number of transactions, summed up to 667.2K.
-4. 📊 **Total Interest Earned (Card Visual):** Highlights the total interest earned across all accounts, totaling $8M.
-5. 📈 **Revenue by Age Group (Clustered Bar Chart):** Shows revenue distribution across different age groups: 20-30, 30-40, 40-50, 50-60, and 60+.
-6. 📈 **Revenue by Gender (Clustered Bar Chart):** Compares revenue contribution between male and female customers.
-7. 🎓 **Revenue by Education Level (Stacked Bar Chart):** Tracks revenue by education categories: Graduate, Post-Graduate, High School, Doctorate, etc.
-8. 💼 **Revenue by Profession (Clustered Bar Chart):** Shows revenue by professions: Businessman, White-collar, Self-employed, Govt, Blue-collar, and Retirees.
-9. 🛒 **Revenue by Transaction Type (Stacked Bar Chart):** Breaks down revenue into expenditure categories: Bills, Entertainment, Grocery, Travel, Food, and Fuel.
-10. 🌳 **Revenue by Card Category (Tree Map):** Highlights revenue contributions from Blue, Silver, Gold, and Platinum cards.
-11. 💳 **Revenue by Card Type (Clustered Bar Chart):** Tracks revenue by transaction methods: Swipe, Chip, and Online.
-12. 🌍 **Revenue by State (Stacked Bar Chart):** Shows revenue contributions from the top states: TX, NY, CA, FL, NJ.
-13. 📅 **Revenue Trends by Quarter (Line Chart):** Displays revenue and transaction counts (Sum of total trans count) over Q1, Q2, Q3, and Q4.
-14. 💍 **Revenue by Marital Status (Stacked Bar Chart):** Tracks revenue across marital statuses: Married, Single, and Unknown.
 
 ---
 
